@@ -1,0 +1,10 @@
+# User Autostart File
+
+# wallpaper
+feh --bg-fill ~/Desktop/wall.jpg &
+
+# Compton
+compton -c -C -f &
+
+# tint2
+tint2 &
